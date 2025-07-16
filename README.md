@@ -2,7 +2,8 @@
 1st project, for checking,
 how git and GitHub works.
 
-##instructions for project. 
+##instructions for project.
+-priority
 - Hi
 - hello
 - nice
@@ -12,7 +13,8 @@ how git and GitHub works.
   2.age
   3.gender
   4.skills
-...
+
+
   **welcome to board**
-  [zebra] (www.facebook.com)
-  [donkey](www.amazon.com]
+  -[zebra] (www.facebook.com)
+  -[donkey](www.amazon.com]
