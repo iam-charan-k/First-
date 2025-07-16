@@ -2,6 +2,8 @@
 1st project, for checking,
 how git and GitHub works.
 
+-b2 branch code here...
+
 ##instructions for project.
 -priority
 - Hi
