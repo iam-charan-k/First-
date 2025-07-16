@@ -8,5 +8,11 @@ how git and GitHub works.
 - nice
 - to meet
 - you
-  **welcome**
-  [link discription] (www.facebook.com)
+  1.name
+  2.age
+  3.gender
+  4.skills
+...
+  **welcome to board**
+  [zebra] (www.facebook.com)
+  [donkey](www.amazon.com]
