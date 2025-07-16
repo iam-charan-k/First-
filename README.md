@@ -10,9 +10,9 @@ how git and GitHub works.
 - to meet
 - you
   
-1.name
-2.age
-3.gender
+1.name 
+2.age  
+3.gender  
 4.skills
 
 *one
