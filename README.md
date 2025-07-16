@@ -10,24 +10,26 @@ how git and GitHub works.
 - to meet
 - you
   
-1.name 
+1.name  
 2.age  
 3.gender  
 4.skills
 
-*one
-*two
-*three
+*one  
+*two  
+*three  
 *four
- 1.1
- 2.2
- 3.3
- 4.4
- 
-  **welcome to references**
-  -[zebra](www.facebook.com)
-  -[donkey](https://www.electronicwings.com)
-  -[amazon](www.amazon.in)
-##sunshine valley
+
+ 1.1  
+ 2.2  
+ 3.3  
+ 4.4  
+
+  **welcome to references**  
+  -[zebra](www.facebook.com)  
+  -[donkey](https://www.electronicwings.com)  
+  -[amazon](www.amazon.in)  
+
+##sunshine valley  
 indian all are welcome to  
 next upcoming event.
