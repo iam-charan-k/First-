@@ -17,4 +17,4 @@ how git and GitHub works.
 
   **welcome to board**
   -[zebra] (www.facebook.com)
-  -[donkey](https://www.electronicwings.com]
+  -[donkey](https://www.electronicwings.com)
